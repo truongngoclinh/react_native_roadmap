@@ -37,8 +37,8 @@ Integrating to my current Android source. Programming always needs debug and tes
 
 2.5 Extra Topics (1 day)
 
-2.6 [iOS Hand-on] (1 day)
-(https://facebook.github.io/react-native/docs/native-modules-ios.html)
+2.6 [iOS Hand-on] 
+(https://facebook.github.io/react-native/docs/native-modules-ios.html) (1 day)
 
 ## 3. Real world discovery (... days)
 
