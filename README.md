@@ -5,12 +5,11 @@ In simple way: **'React Native lets you build mobile apps using only JavaScript"
 
 Around **12 days** for learning then hand-on job.
 
-## 1. [Understanding JavaScript] (http://www.w3schools.com/js/default.asp) (2 days)
+## 1. Understanding JavaScript  (2 days)
 
+The old way, hand-on with [w3schools guide] (http://www.w3schools.com/js/default.asp)
 
-The old way, hand-on with [w3schools guide] 
-
-## 2. [React Native guide by Facebook] (https://facebook.github.io/react-native/docs/getting-started.html) (10 days)
+## 2. React Native guide by Facebook (10 days)
 
 In my opinion, all the things we need to understand React Native is declaratively mention in the [guide on Facebook] (https://facebook.github.io/react-native/docs/getting-started.html). Because I have much experience with Android than iOS, so I pick Android first.
 
