@@ -1,7 +1,7 @@
 # ROADMAP FOR LEARNING REACT NATIVE
 
 This time, I wanna try to learn React Native, an platform distributed by Facebook.
-In simple way: *'React Native lets you build mobile apps using only JavaScript"*. But I dont have any experience with JavaScript so at the beginning I need to get familiar with JS syntax, then follow the [React Native guide] (https://facebook.github.io/react-native/), finally working/integrating to my current project.
+In simple way: **'React Native lets you build mobile apps using only JavaScript"**. But I dont have any experience with JavaScript so at the beginning I need to get familiar with JS syntax, then follow the [React Native guide] (https://facebook.github.io/react-native/), finally working/integrating to my current project.
 
 ## 1. [Understanding JavaScript] (http://www.w3schools.com/js/default.asp) (2 days)
 
@@ -34,12 +34,12 @@ How about some native components that we cant handle with React Native, how abou
 
 Integrating to my current Android source. Programming always needs debug and test. I thought this part will encounter many weird problems.
 
-2.5 [Extra Topics]
+2.5 Extra Topics
 
 2.6 [iOS Hand-on]
 (https://facebook.github.io/react-native/docs/native-modules-ios.html)
 
-## 3. Real world discovers (7 days)
+## 3. Real world discovery (7 days)
 
 Apply React Native to do real work: Cheap Fare on TopPay.
 Understanding the UI, the current React Native implementation, ready to maintain.
