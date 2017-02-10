@@ -18,7 +18,7 @@ In my opinion, all the things we need to understand React Native is declarativel
 
 Setup enviroment, done the `Hello World!`, handling the basic things, components for a mobile app.
 
-2.2 [React Native Components] 
+2.2 [React-Native Components] 
 (https://facebook.github.io/react-native/docs/activityindicator.html) (2 days)
 
 How the `Activity, Navigator, the Tab, the ScrollView...` work in React Native?
