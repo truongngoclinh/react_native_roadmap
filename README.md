@@ -11,7 +11,7 @@ The old way, hand-on with [w3schools guide] (http://www.w3schools.com/js/default
 
 ## 2. React Native guide by Facebook (10 days)
 
-In my opinion, all the things we need to understand React Native is declaratively mention in the [guide on Facebook] (https://facebook.github.io/react-native/docs/getting-started.html). Because I have much experience with Android than iOS, so I pick Android first.
+In my opinion, all the things we need to understand React Native is declaratively mentioned in the [guide on Facebook] (https://facebook.github.io/react-native/docs/getting-started.html). Because I have much experience with Android than iOS, so I pick Android first.
 
 2.1 [The Basic] 
 (https://facebook.github.io/react-native/docs/tutorial.html) (2 day)
