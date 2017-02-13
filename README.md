@@ -8,6 +8,7 @@ Around **12 days** for learning then apply on project. (Feb 17 - Mar 6)
 ## 1. Understanding JavaScript  (2 days)
 
 The old way, hand-on with [w3schools guide] (http://www.w3schools.com/js/default.asp)
+And this site [javascript.info] (http://javascript.info/) seems good for theory, concept.
 
 ## 2. React Native guide by Facebook (10 days)
 
