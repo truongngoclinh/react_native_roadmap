@@ -1,5 +1,7 @@
 # ROADMAP FOR LEARNING REACT NATIVE
 
+Take a look at [Sample here](https://github.com/truongngoclinh/Samples_ReactNative).
+
 This time, I wanna try to learn React Native, an platform distributed by Facebook.
 In simple way: **'React Native lets you build mobile apps using only JavaScript"**. But I dont have any experience with JavaScript so at the beginning I need to get familiar with JS syntax, then follow the [React Native guide](https://facebook.github.io/react-native/), finally working/integrating to my current project.
 
