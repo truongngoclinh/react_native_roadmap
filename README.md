@@ -43,7 +43,10 @@ Integrating to my current Android source. Programming always needs debug and tes
 Apply React Native to do real work: Cheap Fare on TopPay.
 Understanding the UI, the current React Native implementation, ready to maintain.
 
-I found an interesting course on **Udemy** for learning React-Native. It helps me to optimize a lots of time on set-up enviroment, on basic things... It costs 10$. [`link`](https://www.udemy.com/the-complete-react-native-and-redux-course). 
+## Notes
+I found an interesting course on **Udemy** for learning React-Native. It helps me to optimize a lots of time on set-up enviroment, on basic things... It costs 10$. [`link`](https://www.udemy.com/the-complete-react-native-and-redux-course).
+
+
 
 
 
